@@ -3,6 +3,7 @@
 	src: url("fonts/LinLibertine_RZ.woff") format('woff');
 }
 html {
+	background-color: #000;
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -456,7 +457,7 @@ div.articleRightInner {
 .article {
 	padding: 1.25em 1.5em 1.5em 1.5em;
 	border-left: 1px solid #a7d7f9;
-	background: #FFF;
+						background: #FFF; 
 	line-height: 1.6;
 	font-size: 0.875em;
 	border-top: 1px solid #a7d7f9;
